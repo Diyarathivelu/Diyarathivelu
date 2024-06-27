@@ -4,7 +4,7 @@ Aspiring Junior Java developer with knowledge of web essentials
 <img align="right" width="400" height="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
-- 📫 Contact me :
+ 📫 Contact me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhivyabharathi-velu-81a77520b/)
 
 ### I have knowledge in

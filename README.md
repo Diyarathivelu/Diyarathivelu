@@ -5,7 +5,7 @@ Aspiring Junior Java developer with knowledge of web essentials
 
 
  📫 Contact me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhivyabharathi-velu-81a77520b/)
+<br /> [<img aligh="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhivyabharathi-velu-81a77520b/)
 
 ### I have knowledge in
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/><img width="48" height="48" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="external-sql-mobile-app-development-flaticons-lineal-color-flat-icons"/><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/stickers/48/css.png" alt="css"/><img width="48" height="48" src="https://img.icons8.com/arcade/48/javascript.png" alt="javascript"/>

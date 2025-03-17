@@ -9,7 +9,7 @@ Let’s connect!
 <img width="48" height="48" src="https://img.icons8.com/color/search/php.png" alt="java-coffee-cup-logo"/><img width="48" height="48" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="external-sql-mobile-app-development-flaticons-lineal-color-flat-icons"/><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/><img width="48" height="48" src="https://img.icons8.com/stickers/48/css.png" alt="css"/><img width="48" height="48" src="https://img.icons8.com/arcade/48/javascript.png" alt="javascript"/>
 
 ### IDE and Tools I Use
-<img width="48" height="48" src="https://img.icons8.com/nolan/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="48" height="48" src="https://img.icons8.com/color/48/notepad-plus-plus.png" alt="notepad-plus-plus"/><img width="64" height="64" src="https://img.icons8.com/nolan/64/java-eclipse.png" alt="java-eclipse"/><img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+<img width="48" height="48" src="https://img.icons8.com/nolan/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/><img width="48" height="48" src="https://img.icons8.com/color/48/notepad-plus-plus.png" alt="notepad-plus-plus"/>
 
 
 

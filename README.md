@@ -5,7 +5,7 @@ Let’s connect!
 <img align="right" width="300" height="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
- 📫 Contact me :
+
 <br /> [<img aligh="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhivyabharathi-velu-81a77520b/)
 
 ### I have knowledge in

@@ -2,7 +2,7 @@
 Passionate about web development and eager to learn and grow in the field. Currently building my skills in PHP, HTML, CSS, jQuery, and Oracle Database. Open to opportunities where I can apply my knowledge, gain experience, and contribute to meaningful projects.
 
 Let’s connect!
-<img align="right" width="300" height="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" width="300" height="300" border-radius="20" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 <br /> [<img aligh="right" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dhivyabharathi-velu-81a77520b/)
 
 ### I have knowledge in

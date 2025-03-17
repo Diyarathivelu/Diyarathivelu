@@ -1,7 +1,7 @@
 ## Hello 👋 It's me Dhivyabharathi
 
 Aspiring Junior Java developer with knowledge of web essentials
-<img align="right" width="400" height="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align="right" width="300" height="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 
  📫 Contact me :

@@ -1,6 +1,7 @@
 ## Hello 👋 It's me Dhivyabharathi
+Passionate about web development and eager to learn and grow in the field. Currently building my skills in PHP, HTML, CSS, jQuery, and Oracle Database. Open to opportunities where I can apply my knowledge, gain experience, and contribute to meaningful projects.
 
-Aspiring Junior Java developer with knowledge of web essentials
+Let’s connect!
 <img align="right" width="300" height="300" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 

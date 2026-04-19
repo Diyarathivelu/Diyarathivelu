@@ -20,21 +20,13 @@ Open to opportunities where I can **apply my knowledge, gain experience, and con
 
 ### 💻 Technologies I Know
 
-<img width="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img width="48" src="https://img.icons8.com/color/48/php.png"/>
-<img width="48" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png"/>
-<img width="48" src="https://img.icons8.com/color/48/html-5--v1.png"/>
-<img width="48" src="https://img.icons8.com/stickers/48/css.png"/>
-<img width="48" src="https://img.icons8.com/arcade/48/javascript.png"/>
+<img width="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/> <img width="48" src="https://img.icons8.com/color/48/php.png"/> <img width="48" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/external-sql-mobile-app-development-flaticons-lineal-color-flat-icons.png"/> <img width="48" src="https://img.icons8.com/color/48/html-5--v1.png"/> <img width="48" src="https://img.icons8.com/stickers/48/css.png"/> <img width="48" src="https://img.icons8.com/arcade/48/javascript.png"/>
 
 ---
 
 ### 🛠 IDEs and Tools I Use
 
-<img width="48" src="https://img.icons8.com/nolan/48/visual-studio-code-2019.png"/>
-<img width="48" src="https://img.icons8.com/color/48/eclipse.png"/>
-<img width="48" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img width="48" src="https://img.icons8.com/color/48/oracle-logo.png"/>
+<img width="48" src="https://img.icons8.com/nolan/48/visual-studio-code-2019.png"/> <img width="48" src="https://img.icons8.com/color/48/eclipse.png"/> <img width="48" src="https://img.icons8.com/color/48/mysql-logo.png"/> <img width="48" src="https://img.icons8.com/color/48/oracle-logo.png"/>
 
 ---
 

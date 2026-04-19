@@ -38,6 +38,12 @@ Open to opportunities where I can **apply my knowledge, gain experience, and con
 
 ---
 
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diyarathivelu&layout=compact&theme=tokyonight)
+
+---
+
 ### 🚀 Currently Learning
 
 - Java Backend Development

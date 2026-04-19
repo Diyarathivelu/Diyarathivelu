@@ -34,6 +34,9 @@ Open to opportunities where I can **apply my knowledge, gain experience, and con
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diyarathivelu&layout=compact&theme=tokyonight)
 
+## 📊 GitHub Stats
+
+![Dhivyabharathi GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 ---
 
 ### 🚀 Currently Learning
